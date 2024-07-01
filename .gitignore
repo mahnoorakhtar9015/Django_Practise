@@ -1,0 +1,11 @@
+# Ignore the myworld virtual environment directory
+myworld/
+
+# Other common ignores
+*.pyc
+__pycache__/
+.env
+.vscode/
+.idea/
+node_modules/
+db.sqlite3
